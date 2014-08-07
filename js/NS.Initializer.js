@@ -14,7 +14,7 @@ var NS = NS || {};
 	  *
 	  * JS:
 	  * // since we are on #product.detail, only that executes
-	  * NS.initialization.ships = {
+	  * NS.initialization.product = {
 	  *  "other-page": function() {
 	  *     alert('this is the product other page')
 	  *   },
