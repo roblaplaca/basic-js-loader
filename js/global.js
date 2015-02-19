@@ -8,7 +8,7 @@ var NS = NS || {};
 (function($) {
 	/**
 	 * @namespace Object that defines which JS gets executed, and in what order.
-	 * @see NS.Initializer?
+	 * @see NS.Initializer
 	 */
 	NS.initialization = {
 		global: {
